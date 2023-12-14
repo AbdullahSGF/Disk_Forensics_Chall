@@ -1,5 +1,14 @@
 # Disk_Forensics_Chall
 
+
+Download the disk image from here:
+https://drive.google.com/file/d/1Gv01K3yz-gxiZPHhvWwb_sqDWS0P1QG5/view
+ZIP File password:UJCYCLUBMINICTFDFIRCHAL#2023!@#PASS
+
+
+
+
+
 Challenge 1
 Difficulty: Easy
 
